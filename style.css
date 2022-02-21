@@ -22,6 +22,10 @@ body{
     font-weight: normal;
     
 }
+.main_site{
+    max-width: 1920px;
+    margin: 0 auto;
+}
 .header{
     height: 100%;
 }
